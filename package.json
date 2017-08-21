@@ -1,0 +1,13 @@
+{
+  "name": "pixijs",
+  "version": "1.0.0",
+  "description": "test pixi.js",
+  "main": "src/app.js",
+  "author": "blackd0g",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "browser-sync-webpack-plugin": "^1.2.0",
+    "webpack": "^3.5.5"
+  }
+}
